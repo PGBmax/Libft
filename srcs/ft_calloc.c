@@ -16,7 +16,7 @@ void	*ft_calloc(size_t nmemb, size_t size)
 {
 	void	*alloc;
 
-	if (size >= 65535 || nmemb >= 65535)
+	if (size >= 65535 && nmemb >= 65535)
 		return (NULL);
 	if (size * nmemb <= 0)
 	{
