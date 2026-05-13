@@ -1,5 +1,5 @@
 NAME = libft.a
-NAME_TESTER = check
+NAME_TESTER = test_libft
 
 INCLUDES = include/
 C_FLAGS =  -I$(INCLUDES) -Wall -Werror -Wextra -g3 -O3

@@ -2,6 +2,13 @@
 
 # Libft
 
+<div align="center">
+   <img width="239" height="170" alt="Screenshot from 2026-05-13 16-33-02" src="Score.png" />
+   <br/>
+   <strong>Evaluation score: 109/100</strong><br/>
+   <em>Bugs found during evaluation have since been corrected — the project is now equivalent to a 125/100.</em>
+</div>
+
 ## Description
 
 **Libft** is the foundational C project of the 42 Common Core. The goal is to reimplement from scratch a curated set of standard C library functions — and to add extra utility functions not found in the standard library — building a personal static library (`libft.a`) that will be reused throughout all future 42 projects.
